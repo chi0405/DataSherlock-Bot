@@ -14,7 +14,7 @@ class MyPydanticModel(BaseModel):
 from pydantic import Field
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '{personal OPENAI key}'
 
 # Create a Streamlit app
 st.title("DATA SHERLOCK")
