@@ -45,11 +45,11 @@ if interaction_mode == "Chat for Data Analysis":
 
         # Create an agent with the DataFrame
         agent = create_pandas_dataframe_agent(
-            ChatOpenAI(temperature=0, model="your-vietnamese-gpt-model"),  # Replace with your Vietnamese GPT model
+            ChatOpenAI(temperature=0, model=""),  
             df,
             verbose=True,
             agent_type=AgentType.OPENAI_FUNCTIONS,
-            language="vi"  # Set the language to Vietnamese
+            language="vi" 
         )
 
         # Get user input/question
