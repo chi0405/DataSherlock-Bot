@@ -1,7 +1,9 @@
 # DataSherlock-Bot
+![Ask_questions](https://github.com/chi0405/DataSherlock-Bot/assets/99033164/1619e04d-0ade-4d22-8fa8-186c7c110367)
 
 ## Inspiration
-DataSherlock Bot was inspired by the desire to make data analysis and exploration accessible and engaging. We aimed to create a virtual assistant that not only answers data-related questions but also generates visualizations and insights, simplifying the process of extracting valuable information from datasets. The name DataSherlock Bot represents our vision of a data detective uncovering hidden insights with precision.
+DataSherlock Bot was inspired by the desire to mak![Uploading Ask_questions.png…]()
+e data analysis and exploration accessible and engaging. We aimed to create a virtual assistant that not only answers data-related questions but also generates visualizations and insights, simplifying the process of extracting valuable information from datasets. The name DataSherlock Bot represents our vision of a data detective uncovering hidden insights with precision.
 
 ## What it does
 DataSherlock Bot is your companion in the world of data analysis. It performs the following tasks:
